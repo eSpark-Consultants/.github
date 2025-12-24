@@ -57,7 +57,6 @@ eSpark Consulting Group is a technology-focused company delivering **end-to-end 
 ## 🔗 Connect With Us
 
 - 💼 LinkedIn: https://www.linkedin.com/company/esparkconsgroup  
-- 🐙 GitHub: https://github.com/eSparkConsGroup  
 - 🐦 Twitter/X: https://twitter.com/eSparkConsGroup  
 
 ---
